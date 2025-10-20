@@ -2,8 +2,8 @@
 
 Run in VS Code terminal:
 
-java -version
-mvn -version
+### java -version
+### mvn -version
 
 
 # Open the project folder in VS Code.
@@ -14,7 +14,7 @@ You’ll see the same hierarchy in the Explorer view.
 
 Open terminal and execute:
 
-mvn test
+### mvn test
 
 
 Or run directly from the TestRunner.java (use the Run/Debug CodeLens above the class name if the extension supports it).
@@ -26,7 +26,7 @@ Cucumber test output will appear in the Terminal panel.
 
 ## The HTML report will be generated at:
 
-target/cucumber-report.html
+### target/cucumber-report.html
 
 
 # Open it in a browser to view results.
